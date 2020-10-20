@@ -1,0 +1,58 @@
+body{
+    background: #1C1C1C;
+    margin: 0px;
+ }
+ #myVideo {
+     position: fixed;
+     right: 0;
+     bottom: 0;
+     min-width: 100%;
+     min-height: 100%;
+     
+ }
+ #main{
+     position: absolute;
+     width: 100%;
+     font-family: HeadlandOne;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 288px;
+     line-height: 361px;
+     text-align: center;
+     color: #d1d1d1;
+ 
+ 
+ }
+ #primary{
+    /* WOW... */
+
+
+    position: absolute;;
+    width:100%;
+    top: 65%;
+    text-align: center;
+    font-family:Geometria;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 90px;
+    color: #F1F1F1;
+ 
+ }
+ 
+ #secondary{
+    /* I think we just travelled back in time to the ice age */
+
+
+    position: absolute;
+    width:100%;
+    top: 80%;
+    text-align: center;
+    font-family: Geometria;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    
+
+color: #F1F1F1;
+ }
