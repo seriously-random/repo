@@ -2,6 +2,7 @@ body{
     background: #1C1C1C;
     margin: 0px;
  }
+
  #myVideo {
      position: fixed;
      right: 0;
@@ -57,3 +58,4 @@ body{
 color: #F1F1F1;
  }
  
+
